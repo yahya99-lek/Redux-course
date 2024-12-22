@@ -1,0 +1,3 @@
+Redux is a storage space 
+action is a javascript object and it contains type 
+Redecur is a fct that changes the state
